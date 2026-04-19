@@ -230,8 +230,4 @@ After installation:
 5. ✅ Review and customize permissions
 6. ✅ Set up regular database backups
 
----
 
-**System Developed By:** AutoDrive Pro Team
-**Version:** 1.0.0
-**Last Updated:** December 2024
